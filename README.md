@@ -1,5 +1,7 @@
 # 🎵 Melodi Setup Guide
 
+Press code, then Download Zip
+
 This guide will help you set up **Melodi** on Windows, macOS, and Linux.
 
 ## 📋 Requirements
